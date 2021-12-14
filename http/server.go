@@ -10,10 +10,10 @@ import (
 	"bufio"
 	"bytes"
 	"context"
-	"github.com/Hyperledger-TWGC/ccs-gm/sm2"
+	"github.com/cetcxinlian/cryptogm/sm2"
+	"github.com/cetcxinlian/cryptogm/tls"
 
 	//"crypto/tls"
-	"github.com/Hyperledger-TWGC/ccs-gm/tls"
 	"errors"
 	"fmt"
 	"io"

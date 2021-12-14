@@ -7,10 +7,10 @@ package httputil
 import (
 	"bufio"
 	"errors"
+	"github.com/Ruadgedy/net-go-gm/http"
 	"io"
 	"net"
 	//"net/http"
-	"github.com/Hyperledger-TWGC/net-go-gm/http"
 	"net/textproto"
 	"sync"
 )

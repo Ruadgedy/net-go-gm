@@ -9,8 +9,9 @@ package http
 import (
 	"bufio"
 	"bytes"
+	"github.com/cetcxinlian/cryptogm/tls"
+
 	//"crypto/tls"
-	"github.com/Hyperledger-TWGC/ccs-gm/tls"
 	"errors"
 	"fmt"
 	"io"

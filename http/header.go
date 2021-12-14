@@ -5,8 +5,8 @@
 package http
 
 import (
+	"github.com/Ruadgedy/net-go-gm/http/httptrace"
 	"io"
-	"github.com/Hyperledger-TWGC/net-go-gm/http/httptrace"
 	"net/textproto"
 	"sort"
 	"strings"

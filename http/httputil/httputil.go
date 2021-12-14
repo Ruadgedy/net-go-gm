@@ -7,7 +7,7 @@
 package httputil
 
 import (
-	"github.com/Hyperledger-TWGC/net-go-gm/http/internal"
+	"github.com/Ruadgedy/net-go-gm/http/internal"
 	"io"
 	//"net/http/internal"
 )

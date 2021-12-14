@@ -11,8 +11,9 @@ package http
 
 import (
 	"context"
+	"github.com/cetcxinlian/cryptogm/tls"
+
 	//"crypto/tls"
-	"github.com/Hyperledger-TWGC/ccs-gm/tls"
 	"encoding/base64"
 	"errors"
 	"fmt"

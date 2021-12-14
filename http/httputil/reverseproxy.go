@@ -9,11 +9,11 @@ package httputil
 import (
 	"context"
 	"fmt"
+	"github.com/Ruadgedy/net-go-gm/http"
 	"io"
 	"log"
 	"net"
 	//"net/http"
-	"github.com/Hyperledger-TWGC/net-go-gm/http"
 	"net/textproto"
 	"net/url"
 	"strings"

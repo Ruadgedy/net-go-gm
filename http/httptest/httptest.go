@@ -8,12 +8,13 @@ package httptest
 import (
 	"bufio"
 	"bytes"
+	"github.com/Ruadgedy/net-go-gm/http"
+	"github.com/cetcxinlian/cryptogm/tls"
+
 	//"crypto/tls"
-	"github.com/Hyperledger-TWGC/ccs-gm/tls"
 	"io"
 	"io/ioutil"
 	//"net/http"
-	"github.com/Hyperledger-TWGC/net-go-gm/http"
 	"strings"
 )
 

@@ -7,9 +7,9 @@ package httptest
 import (
 	"bytes"
 	"fmt"
+	"github.com/Ruadgedy/net-go-gm/http"
 	"io/ioutil"
 	//"net/http"
-	"github.com/Hyperledger-TWGC/net-go-gm/http"
 	"net/textproto"
 	"strconv"
 	"strings"

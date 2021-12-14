@@ -1,0 +1,19 @@
+# github.com/cetcxinlian/cryptogm v0.0.0-20200806165024-f3ca35db27b0
+## explicit
+github.com/cetcxinlian/cryptogm/internal/subtle
+github.com/cetcxinlian/cryptogm/sm2
+github.com/cetcxinlian/cryptogm/sm3
+github.com/cetcxinlian/cryptogm/sm4
+github.com/cetcxinlian/cryptogm/tls
+github.com/cetcxinlian/cryptogm/x509
+# golang.org/x/net v0.0.0-20200904194848-62affa334b73
+## explicit
+golang.org/x/net/http/httpguts
+golang.org/x/net/http/httpproxy
+golang.org/x/net/http2/hpack
+golang.org/x/net/idna
+# golang.org/x/text v0.3.0
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm

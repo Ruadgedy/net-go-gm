@@ -8,9 +8,9 @@ package cookiejar
 import (
 	"errors"
 	"fmt"
+	"github.com/Ruadgedy/net-go-gm/http"
 	"net"
 	//"net/http"
-	"github.com/Hyperledger-TWGC/net-go-gm/http"
 	"net/url"
 	"sort"
 	"strings"
